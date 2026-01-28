@@ -191,7 +191,7 @@ Prescripto supports multiple secure payment methods:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/meniraj07/Prescripto-Hospital_Management_System.git
+   git clone https://github.com/yashbansal2005/Prescripto_hospital_management_app.git
    cd Prescripto-Hospital_Management_System
    ```
 
@@ -293,14 +293,6 @@ Prescripto-Hospital_Management_System/
 
 - Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
 - Special thanks to Cloudinary for image storage solutions.
-
-##  Author
-
-**Niraj Kumar**
-
-- GitHub: [@meniraj07](https://github.com/meniraj07)
-- LinkedIn: [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
-
 
 ##  Contributing
 
